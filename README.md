@@ -1,5 +1,5 @@
 public class StringConcatenation {                                          
-public static String concatenateStrings(String str1, String str2) {         
+public static String concatenateStrings(String str1, String str2, String str3) {         
 int len1 = str1.lenth();                                                   
 int len2 = str2.length();
 int len2 = str3.length();
